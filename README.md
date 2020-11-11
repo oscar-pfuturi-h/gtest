@@ -15,4 +15,4 @@ Código que realizará las pruebas del archivo triangle.cpp
 ![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/testcode.JPG)
 
 ## Prueba
-![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/testing.JPG)
+![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/testingcode.JPG)
