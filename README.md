@@ -4,7 +4,7 @@ Se ha integrado GTest en el IDE de Visual Studio Code para realizar la siguiente
 ## Códigos
 
 ### triangle.cpp
-Código que se utilizará en la prueba
+Código que se utilizará en la prueba \
 ![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/code.JPG)
 
 ### triangle.h
@@ -12,7 +12,7 @@ Código que se utilizará en la prueba
 
 ### triangle_test.cpp
 Código que realizará las pruebas del archivo triangle.cpp
-![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/test_code.JPG)
+![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/testcode.JPG)
 
 ## Prueba
 ![Alt text](https://github.com/oscar-pfuturi-h/gtest/blob/main/images/testing.JPG)
